@@ -1,0 +1,109 @@
+
+header .navbar-brand {
+	float: left;
+}
+
+nav{
+	z-index: 1;
+}
+
+#header-nav {
+  background-color: #808080;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+ 
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list {
+	background-color: #dcdcdc;
+	text-align: center;
+	font-size: 1.1em;
+
+	border: black solid 1px;
+}
+#nav-list li {
+	border: black solid 1px;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.chicken, .beef, .sushi {
+ 
+  
+  margin-bottom: 15px;
+  position: relative;
+  overflow: hidden;
+  background-color: white;
+}
+
+
+#chicken {
+	text-align: center;
+	font-size: 1.4em;
+	font-weight: bold;
+	
+	
+}
+#chicken h3 {
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+
+#beef {
+	text-align: center;
+	font-size: 1.4em;
+	font-weight: bold;
+	
+	
+}
+#beef h3 {
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+
+#sushi {
+	text-align: center;
+	font-size: 1.4em;
+	font-weight: bold;
+	
+	
+}
+#sushi h3 {
+	margin-top: 10px;
+	padding-top: 10px;
+}
+.adjustment {
+	width:100%;
+background-color: #D3D3D3;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+
